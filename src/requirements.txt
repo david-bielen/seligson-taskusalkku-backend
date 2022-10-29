@@ -8,7 +8,7 @@ aiokafka==0.7.2
     # via -r requirements.in
 aioredis==2.0.0
     # via fastapi-mail
-aiosmtplib==1.1.6
+aiosmtplib==1.1.7
     # via fastapi-mail
 alembic==1.7.5
     # via -r requirements.in
