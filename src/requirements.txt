@@ -8,7 +8,7 @@ aiokafka==0.7.2
     # via -r requirements.in
 aioredis==2.0.0
     # via fastapi-mail
-aiosmtplib==1.1.6
+aiosmtplib==1.1.7
     # via fastapi-mail
 alembic==1.7.5
     # via -r requirements.in
@@ -22,7 +22,7 @@ async-timeout==4.0.1
     # via aioredis
 blinker==1.4
     # via fastapi-mail
-certifi==2021.10.8
+certifi==2022.12.7
     # via
     #   httpx
     #   requests
@@ -63,7 +63,7 @@ h11==0.12.0
     #   uvicorn
 httpcore==0.13.7
     # via httpx
-httpx==0.19.0
+httpx==0.23.0
     # via fastapi-mail
 idna==2.10
     # via
@@ -75,7 +75,7 @@ jinja2==3.0.3
     # via fastapi-mail
 kafka-python==2.0.2
     # via aiokafka
-mako==1.1.6
+mako==1.2.2
     # via alembic
 markupsafe==2.0.1
     # via
@@ -93,7 +93,7 @@ pydantic==1.8.2
     #   fastapi
     #   fastapi-mail
     #   fastapi-utils
-pyjwt==2.3.0
+pyjwt==2.4.0
     # via -r requirements.in
 pymysql==1.0.2
     # via -r requirements.in
