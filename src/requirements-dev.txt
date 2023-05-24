@@ -40,7 +40,7 @@ pyparsing==2.4.7
     # via packaging
 pytest==6.2.3
     # via -r requirements-dev.in
-requests==2.25.1
+requests==2.31.0
     # via docker
 sqlalchemy==1.4.26
     # via testcontainers
