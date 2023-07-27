@@ -22,7 +22,7 @@ async-timeout==4.0.1
     # via aioredis
 blinker==1.4
     # via fastapi-mail
-certifi==2021.10.8
+certifi==2023.7.22
     # via
     #   httpx
     #   requests
