@@ -34,7 +34,7 @@ charset-normalizer==2.0.8
     # via httpx
 click==8.0.3
     # via uvicorn
-cryptography==35.0.0
+cryptography==42.0.2
     # via -r requirements.in
 deprecated==1.2.13
     # via redis
