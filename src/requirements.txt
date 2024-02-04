@@ -99,7 +99,7 @@ pymysql==1.0.2
     # via -r requirements.in
 pyparsing==3.0.6
     # via packaging
-python-multipart==0.0.5
+python-multipart==0.0.7
     # via fastapi-mail
 redis==4.0.2
     # via fakeredis
