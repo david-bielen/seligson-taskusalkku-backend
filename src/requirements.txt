@@ -46,7 +46,7 @@ email-validator==1.1.3
     #   fastapi-mail
 fakeredis==1.7.0
     # via fastapi-mail
-fastapi==0.70.0
+fastapi==0.109.1
     # via
     #   -r requirements.in
     #   fastapi-mail
