@@ -103,7 +103,7 @@ python-multipart==0.0.5
     # via fastapi-mail
 redis==4.0.2
     # via fakeredis
-requests==2.25.1
+requests==2.32.0
     # via -r requirements.in
 rfc3986[idna2008]==1.5.0
     # via httpx
