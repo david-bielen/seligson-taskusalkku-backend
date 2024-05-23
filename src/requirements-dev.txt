@@ -34,13 +34,13 @@ pluggy==0.13.1
     # via pytest
 py==1.10.0
     # via pytest
-pymysql==1.0.2
+pymysql==1.1.1
     # via testcontainers
 pyparsing==2.4.7
     # via packaging
 pytest==6.2.3
     # via -r requirements-dev.in
-requests==2.25.1
+requests==2.32.0
     # via docker
 sqlalchemy==1.4.26
     # via testcontainers
