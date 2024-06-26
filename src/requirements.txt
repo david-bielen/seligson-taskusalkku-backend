@@ -12,7 +12,7 @@ aiosmtplib==1.1.6
     # via fastapi-mail
 alembic==1.7.5
     # via -r requirements.in
-anyio==3.4.0
+anyio==4.4.0
     # via
     #   httpcore
     #   starlette
