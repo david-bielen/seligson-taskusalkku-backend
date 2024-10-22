@@ -126,7 +126,7 @@ sqlalchemy==1.4.26
     #   sqlalchemy-utils
 sqlalchemy-utils==0.37.9
     # via -r requirements.in
-starlette==0.16.0
+starlette==0.40.0
     # via fastapi
 typing-extensions==3.10.0.2
     # via
